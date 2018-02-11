@@ -1,0 +1,37 @@
+
+.pageHeader
+{
+    padding: 15px 40px;
+}
+.pageHeader>h2
+{
+    font-family: 'Oswald', sans-serif;
+    color: #00bda3;
+}
+.cardContainer
+{
+    padding: 20px;
+}
+.dataCard
+{
+    width:100%;
+   
+}
+.cardAction
+{
+    font-size: 14px;
+    color: grey;
+}
+.cardActionLink
+{
+    font-size: 16px;
+}
+.cardTitle
+{
+    color: #525252
+}
+.cardDescription
+{
+    text-align: justify;
+    min-height:120px;
+}
