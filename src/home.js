@@ -1,9 +1,7 @@
 import React from 'react';
 import Content from './content.js'
 
-class Home extends React.Component {
-
-    render() {
+const Home = (props) => {
         return <div>
             <div className="pageHeader">
                 <h2>Amazing Places In The World</h2>
@@ -17,7 +15,7 @@ class Home extends React.Component {
                 </div>
             </div>
         </div>
-    }
+    
 }
 
 export default Home;
